@@ -1,0 +1,37 @@
+_repo: With-Rifle-and-Bayonet--A-Story-of-the-Boer-War_32918
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Paget, Walter
+    aliases:
+    - Paget, W. (Walter)
+    - Paget, Wal. (Walter)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '9756'
+    url: http://www.gutenberg.org/2009/agents/9756
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brereton, F. S. (Frederick Sadleir)
+    alias: Brereton, Frederick Sadleir
+    birthdate: 1872
+    gutenberg_agent_id: '34828'
+    url: http://www.gutenberg.org/2009/agents/34828
+description: ''
+gutenberg_issued: '2010-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'South African War, 1899-1902 -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'With Rifle and Bayonet: A Story of the Boer War'
+url: http://www.gutenberg.org/ebooks/32918
